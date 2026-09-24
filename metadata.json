@@ -1,0 +1,6 @@
+{
+  "name": "Shadows Beneath",
+  "description": "An atmospheric 2D pixel-art horror detective game. Explore the abandoned town, solve puzzles, collect clues, survive the night, and uncover what lurks beneath.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
